@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+//<<<<<<< HEAD
 const express = require("express");
 const sqlite3 = require("sqlite3").verbose();
 const bodyParser = require("body-parser");
@@ -46,7 +46,7 @@ router.post("/", (req, res) => {
 });
 
 module.exports = router;
-=======
+/*=======
 const express = require('express');
 const router = express.Router();
 const UserModel = require('../Model/Users');
@@ -77,4 +77,4 @@ router.post('/', async (req, res) => {
 });
 
 module.exports = router;
->>>>>>> a6f3445383beec9b6af59cd5e4e9badc3da3fd1e
+>>>>>>> a6f3445383beec9b6af59cd5e4e9badc3da3fd1e*/
